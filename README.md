@@ -68,6 +68,9 @@ The dataset contains various features of fruits including:
 
 ## 👤 Author
 **Carine** - [alixHub-ux](https://github.com/alixHub-ux)
+**Ali GUISSOU** - [Guali-spec](https://github.com/Guali-spec)
+**Bienvenue16** - [Bienvenue16](https://github.com/Bienvenue16)
+**nonkanelydianadine-cell** - [nonkanelydianadine-cell](https://github.com/nonkanelydianadine-cell)
 
 ## 📄 License
 This project is part of academic coursework.
