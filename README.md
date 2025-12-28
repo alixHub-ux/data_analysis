@@ -13,7 +13,7 @@ This is a class project focused on exploratory data analysis of a fruit dataset.
 - **numpy** - Numerical computing
 - **matplotlib** - Data visualization
 
-## 📁 Project Structure
+## 📁 The project Structure
 ```
 data_analysis/
 │
